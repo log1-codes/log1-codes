@@ -173,3 +173,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+[![An image of @anuragsinghthakur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragsinghthakur)](https://holopin.io/@anuragsinghthakur)

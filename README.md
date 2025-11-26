@@ -163,14 +163,20 @@
 </p>
 
 ---
+
 <p align="center">
   <i>⭐️ From <a href="https://github.com/log1-codes">log1-codes</a> with ❤️</i>
 </p>
 
 <!-- Random Dev Quote -->
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-[![Holopin Badges](https://holopin.me/anuragsinghthakur)](https://holopin.io/@anuragsinghthakur)
+
+<!-- Holopin Badges -->
+<h2 align="center">🎖 Holopin Badges</h2>
+<p align="center">
+  <a href="https://holopin.io/@anuragsinghthakur">
+    <img src="https://holopin.me/anuragsinghthakur" alt="Holopin Badges" />
+  </a>
+</p>

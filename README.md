@@ -1,182 +1,167 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Anurag+Singh;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEDE3,100:E7ECF7&height=180&section=header" width="100%" />
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=log1-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/log1-codes?label=Followers&style=social" alt="GitHub Badge" />
+🧑‍💻&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=false&vCenter=true&width=500&height=60&duration=4000&pause=1000&color=37352F&background=00000000&lines=Hi+There!+👋;I'm+Anurag+Singh;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;" alt="Typing SVG" />
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=log1-codes&label=Profile%20views&color=37352F&style=flat-square" alt="Profile Views" height="20"/>
+  <img src="https://img.shields.io/github/followers/log1-codes?label=Followers&style=flat-square&labelColor=37352F&color=37352F&logo=github&logoColor=white" alt="GitHub Followers" height="20"/>
 </p>
 
-<!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  🎓 Computer Science Student passionate about creating impactful solutions<br/>
-  💻 Full-stack developer with expertise in modern web technologies<br/>
-  🏆 Competitive programming enthusiast with 150+ users on my platform<br/>
-  🌱 Currently exploring Cloud Technologies and System Design<br/>
-  ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
-</p>
+> [!NOTE]
+> Passionate about creating impactful solutions as a full-stack developer with expertise in modern web technologies.
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=log1-codes&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=log1-codes&theme=radical&hide_border=true" height="165">
-</p>
+|  |  |
+|---|---|
+| 🎓 Role | Computer Science Student |
+| 💻 Focus | Full-Stack Development |
+| 🏆 Building | Quantum, a competitive-programming tracker — 150+ users and counting |
+| 🌱 Currently exploring | Cloud Technologies & System Design |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=log1-codes&layout=compact&theme=radical&hide_border=true">
-</p>
+> [!TIP]
+> Fun fact — I love turning complex problems into simple, elegant solutions.
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=log1-codes&theme=redical&bg_color=20232a&hide_border=true" width="100%">
-</p>
+<details open>
+<summary><b>📑 Table of Contents</b></summary>
+<br>
 
-<!-- Tech Stack -->
-<h2 align="center">⚡ Tech Arsenal</h2>
+- [📊 GitHub Stats](#github-stats)
+- [⚡ Tech Arsenal](#tech-arsenal)
+- [🌟 Featured Projects](#featured-projects)
+- [🏆 GitHub Trophies](#github-trophies)
+- [🤝 Let's Connect](#lets-connect)
 
-### 🚀 Languages & Core Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css" alt="Languages" />
-</p>
+</details>
 
-### 🛠️ Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind,bootstrap" alt="Frameworks" />
-</p>
+<br>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,render,git,github" alt="Cloud & DevOps" />
-</p>
+<a id="github-stats"></a>
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
+<br>
 
-### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postman,vscode,linux,bash" alt="Databases & Tools" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=log1-codes&show_icons=true&count_private=true&hide_border=false&bg_color=F7F6F3&title_color=2383E2&text_color=37352F&icon_color=2383E2&border_color=E3E2E0&border_radius=10" height="165" alt="Anurag's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=log1-codes&hide_border=false&background=F7F6F3&border=E3E2E0&stroke=E3E2E0&ring=2383E2&fire=2383E2&currStreakNum=2383E2&sideNums=37352F&currStreakLabel=9B9A97&sideLabels=9B9A97&dates=9B9A97&border_radius=10" height="165" alt="GitHub Streak"/>
 
-### 🧠 Data Science & AI
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=log1-codes&layout=compact&hide_border=false&bg_color=F7F6F3&title_color=2383E2&text_color=37352F&border_color=E3E2E0&border_radius=10" alt="Top Languages"/>
 
-<!-- Featured Projects -->
-<h2 align="center">🌟 Featured Projects</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=log1-codes&hide_border=false&bg_color=F7F6F3&color=37352F&title_color=2383E2&line=2383E2&point=2383E2&area_color=2383E2&area=true&border_color=E3E2E0" width="100%" alt="Activity Graph"/>
 
-<div align="center">
+</details>
+
+<br>
+
+<a id="tech-arsenal"></a>
+<details open>
+<summary><h2>⚡ Tech Arsenal</h2></summary>
+<br>
+
+**🚀 Languages & Core Technologies**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=light" alt="Languages" />
+
+**🛠️ Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,tailwind,bootstrap&theme=light" alt="Frameworks" />
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,render,git,github&theme=light" alt="Cloud & DevOps" />
+
+**🗄️ Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postman,vscode,linux,bash&theme=light" alt="Databases & Tools" />
+
+**🧠 Data Science & AI**
+
+<img src="https://img.shields.io/badge/NumPy-F7F6F3?style=flat-square&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-F7F6F3?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Matplotlib-F7F6F3?style=flat-square&logo=python&logoColor=11557c" />
+
+</details>
+
+<br>
+
+<a id="featured-projects"></a>
+<details open>
+<summary><h2>🌟 Featured Projects</h2></summary>
+<br>
 
 ### ⚡ Quantum - Competitive Programming Tracker
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
-**Track stats across GeeksforGeeks, LeetCode, Codeforces & CodeChef**  
+<img src="https://img.shields.io/badge/Next.js-F7F6F3?style=flat-square&logo=nextdotjs&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-F7F6F3?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+
+**Track stats across GeeksforGeeks, LeetCode, Codeforces & CodeChef**
 🎯 Already helping **150+ users** stay motivated!
 
-<p>
-  <a href="https://quantum-one-lemon.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/log1-codes/quantum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://quantum-one-lemon.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2383E2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/log1-codes/quantum"><img src="https://img.shields.io/badge/GitHub-37352F?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
 ### 📚 EduSync - Interactive Learning Platform
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-</p>
 
-**Transform offline classrooms into online hubs**  
+<img src="https://img.shields.io/badge/MongoDB-F7F6F3?style=flat-square&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/React-F7F6F3?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-F7F6F3?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/WebRTC-F7F6F3?style=flat-square&logo=webrtc&logoColor=333333" />
+
+**Transform offline classrooms into online hubs**
 ✨ Features: Video calls, chat, assignments, quizzes & integrated chatbot
 
-<p>
-  <a href="https://edusync-ug2x.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=render&logoColor=white" />
-  </a>
-  <a href="https://github.com/log1-codes/EduSync">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://edusync-ug2x.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-2383E2?style=flat-square&logo=render&logoColor=white" /></a>
+<a href="https://github.com/log1-codes/EduSync"><img src="https://img.shields.io/badge/GitHub-37352F?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
 ### 🍔 Food Delivery Platform
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
 
-**Full-stack food ordering system with real-time tracking**  
+<img src="https://img.shields.io/badge/MongoDB-F7F6F3?style=flat-square&logo=mongodb&logoColor=4EA94B" />
+<img src="https://img.shields.io/badge/Express.js-F7F6F3?style=flat-square&logo=express&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-F7F6F3?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Stripe-F7F6F3?style=flat-square&logo=stripe&logoColor=008CDD" />
+
+**Full-stack food ordering system with real-time tracking**
 🚀 Features: Menu browsing, order tracking, Stripe payments & admin panel
 
-<p>
-  <a href="https://food-delivery-frontend-iiz8.onrender.com/">
-    <img src="https://img.shields.io/badge/Live_Demo-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/log1-codes/Food-delivery">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://food-delivery-frontend-iiz8.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-2383E2?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/log1-codes/Food-delivery"><img src="https://img.shields.io/badge/GitHub-37352F?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
+</details>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=log1-codes&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
+<br>
 
-<!-- Contact Section -->
-<h2 align="center">🤝 Let's Connect & Build Something Amazing!</h2>
-<p align="center">
-  <a href="mailto:singhanurag1309@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anurag-singh-b64140284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/@A_n_ura_G">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/log1-codes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a id="github-trophies"></a>
+<details open>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+<br>
 
-<!-- Fun Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=log1-codes&theme=flat&no-bg=true&no-frame=false&margin-w=10&margin-h=10&row=1" alt="GitHub Trophies"/>
 
----
+</details>
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/log1-codes">log1-codes</a> with ❤️</i>
-</p>
+<br>
 
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+<a id="lets-connect"></a>
+<details open>
+<summary><h2>🤝 Let's Connect & Build Something Amazing!</h2></summary>
+<br>
 
-<!-- Holopin Badges -->
-<h2 align="center">🎖 Holopin Badges</h2>
-<p align="center">
-  <a href="https://holopin.io/@anuragsinghthakur">
-    <img src="https://holopin.me/anuragsinghthakur" alt="Holopin Badges" />
-  </a>
-</p>
+<a href="mailto:singhanurag1309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anurag-singh-b64140284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/@A_n_ura_G"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/log1-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</details>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEDE3,100:E7ECF7&height=120&section=footer&reversal=true" width="100%" />
+
+<sub><i>⭐️ From <a href="https://github.com/log1-codes">log1-codes</a> with ❤️</i></sub>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Dev Quote"/>
+
+### 🎖 Holopin Badges
+
+<a href="https://holopin.io/@anuragsinghthakur"><img src="https://holopin.me/anuragsinghthakur" alt="Holopin Badges" /></a>
